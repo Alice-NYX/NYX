@@ -1,0 +1,4 @@
+[mysqld]
+basedir=D:\mysql-5.7.19-winx64\mysql-5.7.19-winx64
+datadir=D:\mysql-5.7.19-winx64\mysql-5.7.19-winx64\data
+character-set-server=utf8
